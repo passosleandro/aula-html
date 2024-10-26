@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulários senhas</title>
+</head>
+<body>
+   <form>
+    <label for="user"> Usuário:</label>
+    <input id="user" type="text"/>
+    <br/>
+    <label for="password"> Senha:</label>
+    <input id="password" type="password"/>
+    <br/>
+    <button type="submit"> Enviar</button>
+    <button type="reset"> Limpar</button>
+    <br/>
+    
+    
+   </form>
+</body>
+</html>
